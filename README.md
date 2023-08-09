@@ -3,7 +3,7 @@ Jiahui's homework for Module 14
 
 ## index.html
 
-the default file on web servers.
+The default file on web servers.
 
 ## data folder
 
